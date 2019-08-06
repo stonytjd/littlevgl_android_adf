@@ -1,2 +1,2 @@
-# linux_frame_buffer
-LittlevGL configured to work with /dev/fb0 on Linux
+# android ADF
+fork from https://github.com/littlevgl/lv_linux_frame_buffer.git
